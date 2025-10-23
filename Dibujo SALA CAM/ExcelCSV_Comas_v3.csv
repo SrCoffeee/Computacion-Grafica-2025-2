@@ -1,0 +1,143 @@
+BLOCK_NAME;LAYER;NOMBRE;COLOR;MARCA;MODELO;X;Y;ROT;SX;SY
+'SalonDeClases';'0';'Sal�n de clase';'Blanco';'Argos';'Sala CAD';3396880;3984713;270000;1000;1000
+'Puerta';'Puerta';'Puerta';'Azul';'Hoggan';'Puerta Tivoli 80x200cm';338198;1025848;0;1000;1000
+'Puerta';'Puerta';'Puerta';'Azul';'Hoggan';'Puerta Tivoli 80x200cm';338198;625848;0;1000;1000
+'Tablero';'Tablero';'Tablero';'Blanco';'Maos Centry';'Tablero Acrilico Blanco';314463;3908267;0;1000;1000
+'Televisor';'TV';'Televisor';'Negro';'Samsung';'F-QNN55Q6FAAKXZL';305881;5206558;0;1000;1000
+'Servidor';'Servidor';'Servidor';'Negro';'HPE';'HPE ProLiant DL360 Gen10';5461230;7164083;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';1255622;6078709;270000;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';1263951;6367811;270000;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';1433732;6314557;270000;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';588721;6390310;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';2838213;6245380;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';3437082;6245380;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4047577;6241640;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4703340;6241640;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5315530;6234161;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5913600;6239548;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';2869325;4918863;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';3468194;4918863;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4141922;4915123;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4793192;4915123;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5369603;4907643;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5944711;4913030;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';2836976;4066575;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';3439326;4064321;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4070056;4069038;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4725476;4054725;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5320009;4047568;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5893054;4054725;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';2860145;2753227;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';3462494;2750973;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4093225;2755691;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4748644;2741377;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5343178;2734220;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5916222;2741377;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5943997;1941807;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5337406;1938794;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4718234;1951252;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4091927;1956508;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5931468;595080;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';5324876;592068;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4705704;604526;0;1000;1000
+'Silla';'0';'Silla';'BEIGE';'Stay Elit';'SILLA-01';4079398;609781;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';2606186;5773960;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';2895288;5782289;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3160977;5772833;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';3450079;5781162;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3755818;5765630;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4044920;5773960;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4436555;5770783;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4725657;5779112;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5064003;5765630;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5353105;5773960;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5678595;5768616;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5967697;5776946;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';6191013;5335712;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5926911;5344042;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5636222;5334585;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5372120;5342915;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5066381;5327383;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4777279;5335712;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4385643;5332536;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4096541;5340865;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3758196;5327383;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';3469094;5335712;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3143604;5330369;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';2854502;5338698;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';2851062;5627514;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5946602;5627786;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5324887;5627167;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4674243;5627513;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4002171;5625260;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';3415337;5627136;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5965078;5512893;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5405224;5507991;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4811523;5498186;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4136863;5508479;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';3499003;5510930;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';2907756;5508479;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';2589332;3639235;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';2878434;3647564;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3144123;3638108;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';3433225;3646437;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3738964;3630905;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4028066;3639235;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4419702;3636058;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4708804;3644387;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5047149;3630905;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5336251;3639235;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5661741;3633891;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5950843;3642221;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';6174159;3200987;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5910057;3209317;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5619368;3199860;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5355266;3208190;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5049527;3192658;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4760425;3200987;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4368790;3197811;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4079688;3206140;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3741342;3192658;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';3452240;3200987;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3126750;3195644;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';2837648;3203973;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';3863296;1470837;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4450259;1468992;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5075999;1473529;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5651494;1463313;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4138973;1481242;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4726808;1473802;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5350999;1473529;0;-1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5915675;1471230;0;-1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';6143314;1055404;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';5556351;1053559;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4930611;1058096;0;1000;1000
+'Mouse';'Mouse';'Mouse';'Negro';'LOGITECH';'M170';4355116;1047880;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5867637;1065809;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';5279802;1058369;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4655611;1058096;0;1000;1000
+'Teclado';'0';'Teclado';'Negro';'HP';' HP 230 (3L1E7AA)';4090935;1055798;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';2834208;3492789;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5929749;3493061;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5308034;3492442;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4657390;3492789;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';3985317;3490535;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';3398483;3492411;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5948224;3378169;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5388370;3373266;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4794669;3363461;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4120009;3373754;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';3482149;3376205;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';2890902;3373754;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5909966;1317407;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5334233;1314374;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4719197;1312908;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4146729;1312908;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5915082;1230360;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';5333484;1218544;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4715392;1212635;0;1000;1000
+'Pantalla';'Pantalla';'Pantalla';'Negro';'HP';'V24I';4138703;1209680;0;1000;1000
+'Escritorio';'Escritorio';'Escritorio grande';'Gris';'Charlie SAS';'ET200';4399355;5556842;0;1000;1000
+'Escritorio';'Escritorio';'Escritorio grande';'Gris';'Charlie SAS';'ET200';4385613;3414562;0;1000;1000
+'Escritorio profe';'0';'Escritorio del profesor';'Gris';'Charlie SAS';'ET-Mini';1311714;6387584;0;1000;1000
+'Escritorio peque';'Escritorio 3';'Escritorio peque�o';'Caf�';'Charlie SAS';'ET120';4992035;1269370;0;1000;1000
