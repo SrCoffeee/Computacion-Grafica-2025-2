@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diagrama Flujo - AutoCAD Bloques</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            max-width: 1200px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-top: 0;
+        }
+        .mermaid {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 Flujo de Gestión de Bloques AutoCAD</h1>
+        <div class="mermaid">
+flowchart TD
+    A([🚀 Inicio]) --> B["📦 Definir Bloques con XData<br/>────────────────<br/>• Marca<br/>• Modelo<br/>• Color<br/>• Nombre"]
+    
+    B --> C["✏️ Insertar/Dibujar Bloques<br/>────────────────<br/>• Punto de inserción<br/>• Rotación<br/>• Escala<br/>• Capa"]
+    
+    C --> D["🔍 Capturar Datos<br/>con AutoLISP<br/>────────────────<br/>• ID del bloque<br/>• Capa asignada<br/>• XData<br/>• Parámetros"]
+    
+    D --> E{¿Exportar<br/>a CSV?}
+    
+    E -->|Sí| F["📊 Exportar Datos<br/>────────────────<br/>Delimitador:<br/>Comas o espacios"]
+    
+    F --> G["📈 Análisis en<br/>Excel/Google Sheets<br/>────────────────<br/>• Inventario<br/>• Reportes<br/>• Estadísticas"]
+    
+    E -->|No| H["🔄 Reconstruir<br/>desde CSV<br/>────────────────<br/>• Reinsertar bloques<br/>• Restaurar XData<br/>• Aplicar atributos"]
+    
+    G --> H
+    
+    H --> I([✅ Fin])
+    
+    G -.->|Mejora continua| D
+    
+    style A fill:#90EE90,stroke:#228B22,stroke-width:2px,color:#000
+    style I fill:#FFB6C6,stroke:#DC143C,stroke-width:2px,color:#000
+    style E fill:#FFE4B5,stroke:#FF8C00,stroke-width:2px,color:#000
+    style D fill:#DDA0DD,stroke:#8B008B,stroke-width:2px,color:#fff
+    style F fill:#87CEEB,stroke:#4169E1,stroke-width:2px,color:#000
+    style G fill:#F0E68C,stroke:#DAA520,stroke-width:2px,color:#000
+    style H fill:#98FB98,stroke:#228B22,stroke-width:2px,color:#000
+        </div>
+    </div>
+    <script>
+        mermaid.initialize({ startOnLoad: true, theme: 'default' });
+        mermaid.contentLoaded();
+    </script>
+</body>
+</html>
