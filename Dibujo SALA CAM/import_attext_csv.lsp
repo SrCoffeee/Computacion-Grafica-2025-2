@@ -1,9 +1,6 @@
 ;;; ------------------------------------------------------------
-;;; IMPCSV_ATTEXT – Reconstruye dibujo desde un CSV (ATTEXT CDF)
-;;; Orden de columnas esperado:
 ;;; 1 BLOCK_NAME, 2 LAYER, 3 NOMBRE, 4 COLOR, 5 MARCA, 6 MODELO,
 ;;; 7 X, 8 Y, 9 ROT, 10 SX, 11 SY
-;;; Autor: Carolina
 ;;; ------------------------------------------------------------
 (vl-load-com)
 
