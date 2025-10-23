@@ -42,44 +42,33 @@ Repositorio de referencia del curso/proyecto: <https://github.com/SrCoffeee/Comp
 ## 🧭 Diagrama de flujo
 ```mermaid
 flowchart TD
-  A[Inicio] --> B[Definir bloques + XData<br/>(marca, modelo, color, nombre)]
-  B --> C[Insertar/Dibujar bloques<br/>(punto, rotación, escala, capa)]
-  C --> D[Capturar datos con AutoLISP<br/>(ID, capa, XData, inserción, rotación, escala)]
-  D --> E{Exportar CSV}
-  E -->|Comas o espacios| F[Análisis en Excel/Sheets<br/>Inventario / reportes]
-  E --> G[Reconstruir desde CSV<br/>(reinsertar bloque + XData)]
-  G --> H[Fin]
-  F -. Ciclo de mejora .-> D
-```
-
-## 🧠 Mapa mental
-```mermaid
-mindmap
-  root((Sala de computación AutoCAD))
-    Bloques
-      "Elementos: mesa, pantalla, teclado…"
-      "Atributos visibles/ocultos"
-      "XData: marca, modelo, color"
-    "Flujo de datos"
-      "Exportar CSV (comas/espacios)"
-      "Importar CSV"
-      "Reconstrucción del layout"
-    Geometría
-      "UCS y punto de inserción"
-      "Rotación y escala"
-      "Capas y estilos"
-    Automatización
-      "Scripts AutoLISP"
-      "Selección y validación"
-      "Recorridos por dibujo"
-    Interoperabilidad
-      "Excel/Sheets"
-      "Inventario y reportes"
-      "Auditoría de cambios"
-    "Control de cambios"
-      "Versionado CSV"
-      "Trazabilidad XData"
-      "Reproducibilidad"
+    A([🚀 Inicio]) --> B["📦 Definir Bloques con XData<br/>────────────────<br/>• Marca<br/>• Modelo<br/>• Color<br/>• Nombre"]
+    
+    B --> C["✏️ Insertar/Dibujar Bloques<br/>────────────────<br/>• Punto de inserción<br/>• Rotación<br/>• Escala<br/>• Capa"]
+    
+    C --> D["🔍 Capturar Datos<br/>con AutoLISP<br/>────────────────<br/>• ID del bloque<br/>• Capa asignada<br/>• XData<br/>• Parámetros"]
+    
+    D --> E{¿Exportar<br/>a CSV?}
+    
+    E -->|Sí| F["📊 Exportar Datos<br/>────────────────<br/>Delimitador:<br/>Comas o espacios"]
+    
+    F --> G["📈 Análisis en<br/>Excel/Google Sheets<br/>────────────────<br/>• Inventario<br/>• Reportes<br/>• Estadísticas"]
+    
+    E -->|No| H["🔄 Reconstruir<br/>desde CSV<br/>────────────────<br/>• Reinsertar bloques<br/>• Restaurar XData<br/>• Aplicar atributos"]
+    
+    G --> H
+    
+    H --> I([✅ Fin])
+    
+    G -.->|Mejora continua| D
+    
+    style A fill:#90EE90,stroke:#228B22,stroke-width:2px,color:#000
+    style I fill:#FFB6C6,stroke:#DC143C,stroke-width:2px,color:#000
+    style E fill:#FFE4B5,stroke:#FF8C00,stroke-width:2px,color:#000
+    style D fill:#DDA0DD,stroke:#8B008B,stroke-width:2px,color:#fff
+    style F fill:#87CEEB,stroke:#4169E1,stroke-width:2px,color:#000
+    style G fill:#F0E68C,stroke:#DAA520,stroke-width:2px,color:#000
+    style H fill:#98FB98,stroke:#228B22,stroke-width:2px,color:#000
 ```
 
 ---
